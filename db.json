@@ -1,0 +1,41 @@
+{
+  "gorouter": [
+    {
+      "id": 1,
+      "name": "gorouter 1",
+      "foundationId": 1
+    },
+    {
+      "id": 2,
+      "name": "gorouter 2",
+      "foundationId": 1
+    },
+    {
+      "id": 3,
+      "name": "gorouter 3",
+      "foundationId": 2
+    }
+  ],
+  "diegocells": [
+    {
+      "id": 1,
+      "name": "diego cell 1",
+      "foundationId": 2
+    },
+    {
+      "id": 2,
+      "name": "diego cell 2",
+      "foundationId": 2
+    }
+  ],
+  "foundations": [
+    {
+      "name": "My first foundation",
+      "id": 1
+    },
+    {
+      "name": "My second foundation",
+      "id": 2
+    }
+  ]
+}
